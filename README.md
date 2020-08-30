@@ -3,7 +3,7 @@ Project is created using Python 3.7
 
 ** Libraries **
 The following libraries are used:
--tkinter
+tkinter,
 matplotlib.pyplot (version 3.3.0),
 numpy (version 1.19.1)
 
