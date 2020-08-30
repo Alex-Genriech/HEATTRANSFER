@@ -25,8 +25,8 @@ Install the Libraries mentioned above.
 
 Make sure all files are included in the same folder from where you run the program. 
 Files include:
-main.py
-gui.py
-analysis.py
-.idea
+main.py,
+gui.py,
+analysis.py,
+.idea,
 __pycache__
