@@ -19,11 +19,14 @@ direction of how the heat/fluid should behave.
 
 
 ** Installation **
-To install, download the files and place in the same folder from where you will run the program. Using your preferred idle, 
-run the program from "main.py".
+To install, download the files and place in the same folder from where you will run the program.
+In your preferred IDLE, go to settings and change the Project Interpreter location to where you stored the files. 
+Install the Libraries mentioned above. 
 
 Make sure all files are included in the same folder from where you run the program. 
 Files include:
 main.py
 gui.py
 analysis.py
+.idea
+__pycache__
