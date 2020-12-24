@@ -1,6 +1,6 @@
 # ********************************* #
 # Project: Heat Transfer Analysis
-# Code: Alex Genriech
+# Coder: Alex
 # Filename: main.py
 # Purpose: Run the main project loop
 # ********************************* #
