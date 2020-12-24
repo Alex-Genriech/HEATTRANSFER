@@ -1,6 +1,6 @@
 # ********************************* #
 # Project: Heat Transfer Analysis
-# Code: Alex Genriech
+# Coder: Alex
 # Filename: analysis.py
 # Purpose: Contains the analysis script
 #          for the entire program. Each analysis
