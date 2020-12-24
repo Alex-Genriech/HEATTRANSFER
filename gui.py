@@ -1,6 +1,6 @@
 # ********************************* #
 # Project: Heat Transfer Analysis
-# Code: Alex Genriech
+# Coder: Alex
 # Filename: gui.py
 # Purpose: Contains the main GUI script
 #          for the program
