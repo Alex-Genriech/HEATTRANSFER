@@ -9,24 +9,6 @@ numpy (version 1.19.1)
 
 
 ** About the Program **
-The following program is used to analyze heat transfer behaviors. At the moment, it offers three types of analysis:
--Convection
--Conduction
--Pipe Heat Transfer Analysis
-
-The following results of the analysis are not to serve as accurate results and should be only used to give a general 
-direction of how the heat/fluid should behave. 
+The following program was created to analyze heat transfer through conduction, convection, and pipe transfer to show general behavior of the fluid. 
 
 
-** Installation **
-To install, download the files and place in the same folder from where you will run the program.
-In your preferred IDLE, go to settings and change the Project Interpreter location to where you stored the files. 
-Install the Libraries mentioned above. 
-
-Make sure all files are included in the same folder from where you run the program. 
-Files include:
-main.py,
-gui.py,
-analysis.py,
-.idea,
-__pycache__
